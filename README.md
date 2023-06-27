@@ -2,7 +2,7 @@
 
 <img src="portrait.jpg"  width="240" height="320">
 
-[Curriculum Vitae (CV)](CV_English.pdf)
+[Curriculum Vitae (CV)](CV.pdf), [Selected Awards Credential](Credential.pdf)
 
 E-mail: LiuPeng_NGP@outlook.com
 
