@@ -14,7 +14,7 @@ Education:
   - B.E. Computer Science and Technology
   - 2019-2023
   - Outstanding graduate
-  - Bachelor thesis: [生成模型研究与中国画生成](Thesis_Bachelor.pdf) 
+  - Bachelor thesis: [生成模型研究与中国画生成 (Generative Models Research and Chinese Painting Generation)](Thesis_Bachelor.pdf) 
 
 
 #### <font color=red>I am looking for a research assistant job on generative models for about three years (2023-2026). I hope to publish two or three papers on generative models during the work period. In my spare time, I hope to write an English book on generative models.</font>
