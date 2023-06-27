@@ -1,8 +1,8 @@
 # Liu Peng （刘鹏）
 
-[Curriculum Vitae (CV)](CV_English.pdf)
-
 <img src="portrait.jpg"  width="240" height="320">
+
+[Curriculum Vitae (CV)](CV_English.pdf)
 
 E-mail: LiuPeng_NGP@outlook.com
 
