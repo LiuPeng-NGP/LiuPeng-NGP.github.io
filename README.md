@@ -8,7 +8,8 @@
 
 **Research Interests:**  <font color=red>Generative Models, Deep Learning, Computer Vision, Natural Language Processing, Artificial Intelligence</font>
 
-<font color=red>**<font color=red>Attention please:</font>** I am looking for a **<font color=red>research assistant job</font>** related to my research interests, and I hope to have the opportunity to publish papers on **<font color=red>meaningful work</font>**.</font>
+**<font color=red>Attention please:</font>** I am looking for a **<font color=red>research assistant job</font>** related to my research interests.
+I sincerely hope to have the opportunity to do some meaningful work and publish some papers.
 
 **Vision:** In a long run, I believe that the real artificial intelligence like human will come true, and it will make great social good. I would like to devote myself to artificial intelligence. For now, I think generative artificial intelligence and multimodal (CV, NLP, etc.) are important to the realization of real artificial intelligence.
 
