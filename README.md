@@ -6,7 +6,7 @@
 
 **E-mail:** LiuPeng_NGP@outlook.com
 
-**Research Interests:** Generative Models, multimodal, foundation model, deep learning
+**Research Interests:** Generative Models, Multimodal, Foundation Model, Deep Learning
 
 #### Attention please: I am looking for a <font color=red>research assistant job</font> related to my research interests. I sincerely hope to have the opportunity to <font color=red>do some meaningful work and publish papers on top conferences</font>.
 
