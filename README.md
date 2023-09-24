@@ -6,11 +6,11 @@
 
 **E-mail:** LiuPeng_NGP@outlook.com
 
-**Research Interests:** Generative Models, Deep Learning, Computer Vision, Natural Language Processing, Artificial Intelligence
+**Research Interests:** Generative Models, multimodal, foundation model, deep learning
 
-#### Attention please: I am looking for a <font color=red>research assistant job</font> related to my research interests. I sincerely hope to have the opportunity to <font color=red>do some meaningful work and publish some papers</font>.
+#### Attention please: I am looking for a <font color=red>research assistant job</font> related to my research interests. I sincerely hope to have the opportunity to <font color=red>do some meaningful work and publish papers on top conferences</font>.
 
-**Vision:** In a long run, I believe that the real artificial intelligence will come true, and it will make great social good. I would like to devote myself to artificial intelligence. For now, I think generative artificial intelligence and multimodal (CV, NLP, etc.) are important to the realization of real artificial intelligence.
+**Vision:** In a long run, I believe that the real artificial intelligence will come true, and it will emancipate the productive forces, let people have a better life. I would like to devote myself to the research on artificial intelligence.
 
 **Education:**
 - [Hebei University of Technology](https://eweb.hebut.edu.cn/)
