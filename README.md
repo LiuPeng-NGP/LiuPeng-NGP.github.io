@@ -18,4 +18,10 @@
   - August 2019 - June 2023
   - Outstanding graduate of HEBUT
   - Bachelor thesis: [生成模型研究与中国画生成 (Generative Models Research and Chinese Painting Generation)](Thesis_Bachelor_Liu_Peng_HEBUT.pdf) 
+**Experience:**
+- Scorching Stone Technology
+  - Algorithms Engineer
+  - Use diffusion model to genereate controllable e-commerce picture.
+  - Locating and solving the problem of poor Chinese face generation.
+  - Locating and analyzing the blank background problem in inpainting mode.
 
