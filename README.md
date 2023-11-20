@@ -2,7 +2,7 @@
 
 <img src="portrait.jpg"  width="240" height="320">
 
-[Curriculum Vitae](CV_Liu_Peng_HEBUT.pdf), [Selected Awards Credentials](Credentials_Liu_Peng_HEBUT.pdf)
+[Curriculum Vitae](Resume_Liu_Peng_HEBUT.pdf), [Selected Awards Credentials](Credentials_Liu_Peng_HEBUT.pdf)
 
 **E-mail:** LiuPeng_NGP@outlook.com
 
