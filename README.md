@@ -23,7 +23,9 @@
 **Experience:**
 - Westlake University
   - Trustworthy and General Artificial Intelligence Lab (Leaded by Yaochu Jin)
-  - 
+  - Research Assistant
+  - Jan 2024 - Current
+  - Research on generative models, and specifically focus on music generation
 - Scorching Stone Technology
   - Algorithms Engineer
   - October 2023 - Decemeber 2023
