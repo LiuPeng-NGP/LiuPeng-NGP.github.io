@@ -6,9 +6,9 @@
 
 **E-mail:** LiuPeng_NGP@outlook.com
 
-**Research Interests:** Generative Models, Multimodal, Foundation Model
+**Research Interests:** Generative Models, Multimodal, Foundation Model, Artificial General Intelligence
 
-#### Attention please: I am looking for a <font color=red>research assistant job</font> related to my research interests. I sincerely hope to have the opportunity to <font color=red>do some meaningful work and publish papers on top conferences</font>.
+<!-- #### Attention please: I am looking for a <font color=red>research assistant job</font> related to my research interests. I sincerely hope to have the opportunity to <font color=red>do some meaningful work and publish papers on top conferences</font>. -->
 
 **Vision:** In a long run, I believe that the real artificial intelligence will come true, which will liberate productivity and enable people to live better lives. I would like to devote myself to the research on artificial intelligence.
 
@@ -21,6 +21,9 @@
 
 
 **Experience:**
+- Westlake University
+  - Trustworthy and General Artificial Intelligence Lab (Leaded by Yaochu Jin)
+  - 
 - Scorching Stone Technology
   - Algorithms Engineer
   - October 2023 - Decemeber 2023
