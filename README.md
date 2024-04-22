@@ -22,8 +22,8 @@
 
 
 **Experience:**
-- Westlake University
-  - Trustworthy and General Artificial Intelligence Lab (Leaded by Yaochu Jin)
+- [Westlake University](https://en.westlake.edu.cn/)
+  - [Trustworthy and General Artificial Intelligence Lab (Leaded by Yaochu Jin)](https://en.westlake.edu.cn/faculty/yaochu-jin.html)
   - Research Assistant
   - Jan 2024 - Current
   - Research on generative models, and specifically focus on music generation
