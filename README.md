@@ -2,7 +2,8 @@
 
 <img src="portrait.jpg"  width="240" height="320">
 
-[Curriculum Vitae](Resume_Liu_Peng_HEBUT.pdf), [Selected Awards Credentials](Credentials_Liu_Peng_HEBUT.pdf)
+<!-- [Curriculum Vitae](Resume_Liu_Peng_HEBUT.pdf) -->
+<!-- [Selected Awards Credentials](Credentials_Liu_Peng_HEBUT.pdf) -->
 
 **E-mail:** LiuPeng_NGP@outlook.com
 
@@ -17,7 +18,7 @@
   - B.Eng. Computer Science and Technology
   - August 2019 - June 2023
   - Outstanding graduate of HEBUT
-  - Bachelor thesis: [生成模型研究与中国画生成 (Generative Models Research and Chinese Painting Generation)](Thesis_Bachelor_Liu_Peng_HEBUT.pdf) 
+  <!-- - Bachelor thesis: [生成模型研究与中国画生成 (Generative Models Research and Chinese Painting Generation)](Thesis_Bachelor_Liu_Peng_HEBUT.pdf)  -->
 
 
 **Experience:**
