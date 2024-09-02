@@ -7,7 +7,7 @@
 
 **E-mail:** LiuPeng_NGP@outlook.com
 
-**Research Interests:** Generative Models, Multimodal, Foundation Model, Artificial General Intelligence
+**Research Interests:** Generative Models, Artificial Intelligence
 
 <!-- #### Attention please: I am looking for a <font color=red>research assistant job</font> related to my research interests. I sincerely hope to have the opportunity to <font color=red>do some meaningful work and publish papers on top conferences</font>. -->
 
@@ -27,11 +27,11 @@
   - Research Assistant
   - Jan 2024 - Current
   - Research on generative models, and specifically focus on music generation
-- Scorching Stone Technology
+- Zseads Technology
   - Algorithms Engineer
   - October 2023 - Decemeber 2023
   - Use diffusion model to genereate controllable e-commerce picture.
   - Locating and solving the problem of poor Chinese face generation.
   - Locating and analyzing the blank background problem in inpainting mode.
-  - Change color for clothes.
+  - Change color for clothes. 
 
