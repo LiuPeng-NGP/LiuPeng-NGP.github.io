@@ -6,15 +6,16 @@
 
 **E-mail:** LiuPeng_NGP@outlook.com
 
-**Research Interests:** Artificial Intelligence, Generative Model
+**Research Interests:** AI Safety, Long Context Modeling, Generative Models, Artificial Intelligence.
 
-**Vision:** In a long run, I believe that the real artificial intelligence will come true, which will liberate productivity and enable people to live better lives. I would like to devote myself this cause.
+**Personal Statement:** I aim to pursue meaningful and impactful research, focusing on problems that are either under-explored or where I can offer a unique perspective.
 
 **Education:**
 - [Hebei University of Technology](https://eweb.hebut.edu.cn/)
   - B.Eng. Computer Science and Technology
   - August 2019 - June 2023
-  - Outstanding graduate of HEBUT
+  - Outstanding Graduate, First Class Scholarships.
+  - Secured a competitive transfer to Computer Science (top 2 candidates selected)
 
 **Experience:**
 - [Westlake University](https://en.westlake.edu.cn/)
@@ -25,4 +26,4 @@
 - Zseads Technology
   - Algorithms Engineer
   - October 2023 - Decemeber 2023
-  - Use diffusion model to genereate controllable e-commerce picture.
+  - Image generation.
