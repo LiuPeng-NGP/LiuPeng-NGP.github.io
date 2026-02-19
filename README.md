@@ -4,9 +4,9 @@
 
 **E-mail:** LiuPeng_NGP@outlook.com
 
-**Research Interests:** AI Safety, Long Context Modeling, Generative Models, Artificial Intelligence.
+I obtained my bachelor’s degree from **[Hebei University of Technology (HEBUT)](https://eweb.hebut.edu.cn/)** and previously served as a Research Assistant at **[Westlake University](https://en.westlake.edu.cn/)**, where I was fortunate to be advised by **[Prof. Yaochu Jin]((https://en.westlake.edu.cn/faculty/yaochu-jin.html))**. 
 
-**Personal Statement:** I aim to pursue meaningful and impactful research, focusing on problems that are either under-explored or where I can offer a unique perspective.
+My recent research interests include **AI Safety, Long Context Modeling, and Robotics**. I aim to pursue meaningful and impactful research, focusing on problems that are either under-explored or where I can offer a unique perspective.
 
 ---
 
@@ -14,13 +14,11 @@
 
 - **Robustness of Probabilistic Models to Low-Quality Data: A Multi-Perspective**
   - Liu Peng and Yaochu Jin
-  - *ICLR 2026*
-  - [OpenReview](https://openreview.net/forum?id=ZFZhV7Snf4)
+  - *ICLR 2026*, [OpenReview](https://openreview.net/forum?id=ZFZhV7Snf4)
 
 - **An Information-Theoretic Unification of Intelligence**
   - Liu Peng and Yaochu Jin
-  - *Under Review*
-  - [PDF](https://openreview.net/pdf?id=KnXxxoAqPh)
+  - *Under Review*, [PDF](https://openreview.net/pdf?id=KnXxxoAqPh)
 
 ---
 
