@@ -1,10 +1,107 @@
-<!-- This file is index.html – serves as the main page using zero-md to render README.md -->
+<!DOCTYPE html>
+<html lang="en">
 <head>
-    <script
-      type="module"
-      src="https://cdn.jsdelivr.net/gh/zerodevx/zero-md@2/dist/zero-md.min.js"
-    ></script>
-  </head>
-  <body>
-    <zero-md src="README.md"></zero-md>
-  </body>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Liu Peng - Homepage</title>
+    <!-- Load modern fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&family=Merriweather:wght@700&display=swap" rel="stylesheet">
+    
+    <!-- Load zero-md -->
+    <script type="module" src="https://cdn.jsdelivr.net/gh/zerodevx/zero-md@2/dist/zero-md.min.js"></script>
+    
+    <style>
+        /* Background color for the whole page */
+        body { margin: 0; background-color: #f9f9f9; }
+    </style>
+</head>
+<body>
+
+    <!-- src="README.md" loads your content -->
+    <zero-md src="README.md">
+        <template>
+            <style>
+                /* --- CONTAINER & LAYOUT --- */
+                :host {
+                    display: block;
+                    max-width: 800px; /* Limits width for readability */
+                    margin: 40px auto;
+                    padding: 40px;
+                    background: #ffffff;
+                    border-radius: 8px;
+                    box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+                    font-family: 'Inter', sans-serif;
+                    color: #333;
+                    line-height: 1.6;
+                }
+
+                /* --- TYPOGRAPHY --- */
+                h1, h2, h3 {
+                    font-family: 'Merriweather', serif;
+                    color: #111;
+                    border-bottom: none;
+                }
+
+                h1 {
+                    text-align: center;
+                    font-size: 2.5rem;
+                    margin-bottom: 0.5rem;
+                }
+
+                /* --- IMAGE STYLING --- */
+                /* Targets the portrait specifically */
+                img[src*="portrait"] {
+                    display: block;
+                    margin: 20px auto 30px auto; /* Centers the image */
+                    border-radius: 12px; /* Rounded corners */
+                    box-shadow: 0 4px 12px rgba(0,0,0,0.15); /* Soft shadow */
+                    object-fit: cover;
+                }
+
+                /* --- LINKS --- */
+                a {
+                    color: #0066cc;
+                    text-decoration: none;
+                    font-weight: 500;
+                    transition: color 0.2s;
+                }
+                a:hover {
+                    color: #004499;
+                    text-decoration: underline;
+                }
+
+                /* --- SECTIONS --- */
+                p {
+                    margin-bottom: 1.2rem;
+                }
+
+                strong {
+                    color: #000;
+                    font-weight: 600;
+                }
+
+                /* --- LISTS (Publications, etc) --- */
+                ul {
+                    padding-left: 20px;
+                    margin-bottom: 2rem;
+                }
+                li {
+                    margin-bottom: 0.8rem;
+                }
+
+                /* --- RESPONSIVE MOBILE --- */
+                @media (max-width: 600px) {
+                    :host {
+                        margin: 0;
+                        padding: 20px;
+                        border-radius: 0;
+                    }
+                }
+            </style>
+        </template>
+    </zero-md>
+
+</body>
+</html>
