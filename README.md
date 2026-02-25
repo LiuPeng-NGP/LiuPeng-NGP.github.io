@@ -6,7 +6,7 @@
 
 I obtained my bachelor’s degree from **[Hebei University of Technology (HEBUT)](https://eweb.hebut.edu.cn/)** and previously served as a Research Assistant at **[Westlake University](https://en.westlake.edu.cn/)**, where I was fortunate to be advised by **[Prof. Yaochu Jin]((https://en.westlake.edu.cn/faculty/yaochu-jin.html))**. 
 
-My recent research interests include **Robotics, Long Context Modeling and AI Safety **. I aim to pursue meaningful and impactful research, focusing on problems that are either under-explored or where I can offer a unique perspective.
+My recent research interests include **Robotics, Long Context Modeling and AI Safety**. I aim to pursue meaningful and impactful research, focusing on problems that are either under-explored or where I can offer a unique perspective.
 
 ---
 
