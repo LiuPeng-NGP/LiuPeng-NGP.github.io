@@ -4,18 +4,17 @@
 
 **Email:** LiuPeng_NGP@outlook.com
 
-Hi, My name is Liu Peng (刘鹏, Liú Péng). My family name is Liu, and you can call me Peng.
+My name is Liu Peng (刘鹏, Liú Péng). My family name is Liu, and you can call me Peng.
 
+I previously worked as a Research Assistant at **[Westlake University](https://en.westlake.edu.cn/)**, where I was fortunate to be advised by **[Prof. Yaochu Jin](https://en.westlake.edu.cn/faculty/yaochu-jin.html)**. I received my B.Eng. in Computer Science and Technology from **[Hebei University of Technology](https://eweb.hebut.edu.cn/)**.
 
-I previously worked as a Research Assistant at **[Westlake University](https://en.westlake.edu.cn/)**, advised by **[Prof. Yaochu Jin](https://en.westlake.edu.cn/faculty/yaochu-jin.html)**. I received my B.Eng. in Computer Science and Technology from **[Hebei University of Technology](https://eweb.hebut.edu.cn/)**.
-
-My current research interests include **generative models, long-context modeling, AI safety and robotics**.
+My current research interests include **generative models, long-context modeling, AI safety, and robotics**.
 
 ---
 
 ### Publications
 
-- **Robustness of Probabilistic Models to Low-Quality Data: A Multi-Perspective**. Liu Peng, Yaochu Jin. *ICLR 2026*. [OpenReview](https://openreview.net/forum?id=ZFZhV7Snf4)
+- **Robustness of Probabilistic Models to Low-Quality Data: A Multi-Perspective Analysis**. Liu Peng, Yaochu Jin. *ICLR 2026*. [OpenReview](https://openreview.net/forum?id=ZFZhV7Snf4)
 
 - **An Information-Theoretic Unification of Intelligence**. Liu Peng, Yaochu Jin. *Under review*. [PDF](https://openreview.net/pdf?id=KnXxxoAqPh)
 
