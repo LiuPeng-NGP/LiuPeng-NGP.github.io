@@ -4,6 +4,9 @@
 
 **Email:** LiuPeng_NGP@outlook.com
 
+Hi, My name is Liu Peng (刘鹏, Liú Péng). My family name is Liu, and you can call me Peng.
+
+
 I previously worked as a Research Assistant at **[Westlake University](https://en.westlake.edu.cn/)**, advised by **[Prof. Yaochu Jin](https://en.westlake.edu.cn/faculty/yaochu-jin.html)**. I received my B.Eng. in Computer Science and Technology from **[Hebei University of Technology](https://eweb.hebut.edu.cn/)**.
 
 My current research interests include **generative models, long-context modeling, AI safety and robotics**.
