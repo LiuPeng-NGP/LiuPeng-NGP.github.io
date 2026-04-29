@@ -20,7 +20,7 @@ My current research interests include **generative models, long-context modeling
 
 ### Education
 
-- **[Hebei University of Technology](https://eweb.hebut.edu.cn/)**, B.Eng. Computer Science and Technology, 2019 - 2023
+- **[Hebei University of Technology](https://eweb.hebut.edu.cn/)**, B.Eng. Computer Science and Technology, 2019 - 2023. Outstanding Graduate
 
 ---
 
